@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MazeWalker
+comment0.text=\r\n\ Project\ 1\ -\ Maze\ Walker\r\n\r\n\ @author\ (Grace\ Jau)\r\n\ @version\ (830)\r\n
+comment1.params=difficultyIndex
+comment1.target=MazeWalker(int)
+comment2.params=
+comment2.target=void\ run()
+comment3.params=maze\ mazeBot
+comment3.target=void\ walkMaze(Maze,\ MazeBot)
+numComments=4
