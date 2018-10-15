@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Gibberish
+comment0.text=\r\n\ Gibberish\ Activity\r\n\r\n\ @author\ (Grace\ Jau)\r\n\ @version\ (1011)\r\n
+comment1.params=
+comment1.target=Gibberish()
+comment2.params=wordList5000
+comment2.target=java.lang.String\ makeGibberish(WordList5000)
+numComments=3
