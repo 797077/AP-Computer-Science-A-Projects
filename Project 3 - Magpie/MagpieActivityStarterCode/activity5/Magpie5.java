@@ -9,8 +9,8 @@ import java.util.Random;
  * 		Will transform statements as well as react to keywords
  *</li></ul>
  * This version uses an array to hold the default responses.
- * @author Laurie White
- * @version April 2012
+ * @author Grace Jau
+ * @version 1023
  */
 public class Magpie5
 {
@@ -281,10 +281,10 @@ public class Magpie5
 		return randomResponses [r.nextInt(randomResponses.length)];
 	}
 	
-	private String [] randomResponses = {"Interesting, tell me more",
+	private String [] randomResponses = {"Interesting, tell me more.",
 			"Hmmm.",
 			"Do you really think so?",
-			"You don't say."
+			"You don't say.", "Wow.", "That's cool.", "Why?", "..."
 	};
 	
 }
